@@ -61,6 +61,9 @@
   </Folder>
   <Folder Name="/Samples/">
     <Project Path="samples/AppWithoutLifetime/AppWithoutLifetime.csproj" />
+    <Project Path="samples/AvaloniaCosmos/AvaloniaCosmos/AvaloniaCosmos.csproj" />
+    <Project Path="samples/AvaloniaCosmos/CosmosDrawing/CosmosDrawing.csproj" />
+    <Project Path="samples/AvaloniaCosmos/CosmosFrameBuffer/CosmosFrameBuffer.csproj" />
     <Project Path="samples/BindingDemo/BindingDemo.csproj" />
     <Project Path="samples/ControlCatalog.Android/ControlCatalog.Android.csproj">
       <Deploy />
